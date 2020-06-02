@@ -1,1 +1,1 @@
-# proof-of-concept-deno
+# Proof of concept
